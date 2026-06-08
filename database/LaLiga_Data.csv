@@ -1,4 +1,4 @@
-Player,Nation,Position,Team,Age,Match,Minutes,Goals,Assists,Yellow_Cards,Red_Cards
+Player,Nation,Position,Team,Age,TotalGames,Minutes,Goals,Assists,Yellow_Cards,Red_Cards
 Max Aarons,ENG,Defender (DF),Valencia,24,4,120,0,0,2,0
 Rodrigo Abajas,ESP,Defender (DF),Valencia,21,1,65,0,0,1,0
 Abel,ESP,Defender (DF),Osasuna,23,35,2074,2,0,3,0
